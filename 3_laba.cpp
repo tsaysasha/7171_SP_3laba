@@ -4,8 +4,6 @@
 
 using namespace std;
 
-/* #define ARRAY_SIZE 5 */
-
 int main() {
     srand(time(NULL));
     int array_size;
